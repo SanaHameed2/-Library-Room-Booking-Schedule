@@ -28,11 +28,3 @@ This project is helpful for beginners who want to learn HTML basics and practice
 
 
 
-
-
-
-
-
-
-
-C
